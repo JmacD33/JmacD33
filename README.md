@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JmacD33 (jay)
 - 👀 I’m interested in golf, traveling, beaches, concerts, shows
 - 🌱 I’m currently learning gen ai
-- 💞️ I’m looking to collaborate on ... powershell, python
+- 💞️ I’m looking to collaborate on ... powershell, python, ML
 - 📫 How to reach me ...jmachome33@gmail.com
 - ⚡ Fun fact: ...haven't had to kill a man yet!
 
